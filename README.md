@@ -1,2 +1,2 @@
 # Next-U-Proyectos
-Trabajos, clases, pruebas y proyectos que realizo en Next University
+Trabajos, clases, pruebas y proyectos de mi paso por Universidad Santo Tomas
